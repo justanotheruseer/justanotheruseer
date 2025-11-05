@@ -1,6 +1,6 @@
 ## Hi there 👋
-I code sometimes, and love helping open source projects that I'm passionate about.
-You can contact me on discord (ACoolUser) or [At my email](mailto:justanotheruseer@proton.me)
+- I code sometimes, and love helping open source projects that I'm passionate about.
+- You can contact me on discord (ACoolUser) or [At my email](mailto:justanotheruseer@proton.me)
 <!--
 **justanotheruseer/justanotheruseer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
